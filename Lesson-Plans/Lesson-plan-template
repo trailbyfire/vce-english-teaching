@@ -1,0 +1,73 @@
+# Lesson Plans
+
+This folder stores lesson planning materials for VCE English. It is intended to support day-to-day teaching, unit sequencing, workshop planning, revision lessons, and reusable class activities.
+
+## Purpose
+
+The purpose of this folder is to keep lesson planning organised, practical, and reusable. It should help reduce repeated planning work across terms and make it easier to refine lessons over time.
+
+This folder can be used to store:
+- Weekly lesson plans.
+- Individual lesson outlines.
+- Skills workshops.
+- Revision sessions.
+- Exam preparation lessons.
+- Differentiated class activities.
+- Teacher notes for explicit instruction.
+
+## Suggested structure
+
+```text
+Lesson-Plans/
+├── README.md
+├── Weekly-Plans/
+├── Single-Lessons/
+├── Workshops/
+├── Revision/
+└── Templates/
+```
+
+## What belongs here
+
+Examples of files that belong in this folder include:
+- `weekly-lesson-template.md`
+- `unit-3-week-2-reading-and-discussion.md`
+- `argument-analysis-skills-workshop.md`
+- `exam-preparation-revision-lesson.md`
+
+## Recommended lesson format
+
+A typical lesson plan in this repository should include:
+
+1. Lesson title
+2. Year level or unit
+3. Lesson objective
+4. Success criteria
+5. Key knowledge or skill focus
+6. Starter activity
+7. Explicit teaching/input
+8. Guided practice
+9. Independent practice
+10. Exit ticket or reflection
+11. Homework or follow-up task
+
+## Planning principles
+
+When adding lesson plans, aim to keep them:
+- Clear and easy to scan.
+- Practical for classroom use.
+- Reusable across future classes.
+- Specific enough that they can be taught without rewriting.
+- Flexible enough to be adapted for different cohorts.
+
+## Priority files to create next
+
+Suggested next files for this folder:
+- `weekly-lesson-template.md`
+- `single-lesson-template.md`
+- `revision-lesson-template.md`
+- `skills-workshop-template.md`
+
+## Notes
+
+This folder should function as a working planning space rather than a polished archive. The goal is efficiency, clarity, and reuse.
